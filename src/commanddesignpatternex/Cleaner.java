@@ -15,7 +15,7 @@ public class Cleaner implements Command {
 
     @Override
     public void excecute() {
-        System.out.println("I am a cleaner and i love to keep the environment clean");
+        System.out.println("I am a cleaner and i love to clean");
     }
     
 }
